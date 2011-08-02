@@ -1,0 +1,8 @@
+*.gem
+.bundle
+.DS_Store
+Gemfile.lock
+pkg/*
+tmp
+spec/support/*/public/javascripts
+

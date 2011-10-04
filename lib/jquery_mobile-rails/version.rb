@@ -1,5 +1,5 @@
 module JqueryMobile
   module Rails
-    VERSION = "1.0b3"
+    VERSION = "1.0rc1"
   end
 end

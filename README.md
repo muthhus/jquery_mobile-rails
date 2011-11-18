@@ -1,6 +1,6 @@
 # jQuery Mobile for Rails
 
-This gem vendors the jQuery Mobile 1.0rc3 assets for Rails 3.1 and greater.
+This gem vendors the jQuery Mobile 1.0 assets for Rails 3.1 and greater.
 The files will be added to the asset pipeline and available for you to use.
 
 ## Installation
